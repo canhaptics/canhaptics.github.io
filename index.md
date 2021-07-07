@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+# Welcome to CanHaptics!
 
-You can use the [editor on GitHub](https://github.com/canhaptics/canhaptics.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+The CanHaptics network is a collective of researchers, industry practitioners, and community stakeholders across Canada. We make technology more human by making it physical - pushing out from the screen to be graspable, holdable, and engage with all of your senses - and do so by putting people, not technology, first. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Who are we?
+Driven by researchers from five universities across Canada (and growing!), we are HCI researchers and technologists dedicated to helping people through physical interactive technology like haptics, virtual reality, wearables, and more.
 
-### Markdown
+- British Columbia
+  - Dr. Karon MacLean, The University of British Columbia and leader of the SPIN Lab
+- Manitoba
+  - Dr. Pourang Irani, University of Manitoba
+- Ontario
+  - Dr. Oliver Schneider, University of Waterloo and leader of the Haptic Computing Lab
+- Québec
+  - Dr. Jeremy Cooperstock, McGill University and leader of the Shared Reality Lab. 
+  - Dr. Vincent Lévesque, ÉTS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Upcoming events
+ - Seminar Series
+~~March 28-31, 2020 lunch meeting at Haptics Symposium 2020~~
+...
+# Our commitments
 
-```markdown
-Syntax highlighted code block
+**Canada:** the CanHaptics network will accelerate research and innovation in haptics, further entrenching Canada as a leader in interactive physical technology, and attract and retain top technology and design talent and companies to Canada.
 
-# Header 1
-## Header 2
-### Header 3
+**Industry:** the CanHaptics network will provide companies with a pipeline for talent and connect industry practitioners to cutting-edge research to enhance their technology and designs, by grounding research with real needs of real people.
 
-- Bulleted
-- List
+**Community partners:** the CanHaptics network will connect community partners with researchers and industry partners to tackle real social problems that matter to people. This ensures that our research projects translate into action; impacting communities and building positive relationships. , build relationships between these communities, and help translate research projects into impact for their communities.
 
-1. Numbered
-2. List
+**Researchers:** the CanHaptics network will establish a tighter research community in Canada, streamlining collaboration across space (connecting researchers at different institutions), time (improving institutional knowledge and training across generations of students), and communities (connecting researchers with industry and community partners).
 
-**Bold** and _Italic_ and `Code` text
+# What does CanHaptics do?
 
-[Link](url) and ![Image](src)
-```
+CanHaptics connects people through several programs (currently in development):
+ - CanHap 501: a cross-institutional graduate course on haptic information design
+ - CanHap Seminar series: a ~monthly seminar series featuring researchers from all areas of haptics.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Get involved!
+You can follow our updates at <mailing list>.
 
-### Jekyll Themes
+If you are interested in becoming an industry or community member, <contact us>.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/canhaptics/canhaptics.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you are interested in joining as a researcher or trainee, <contact us differently>.
