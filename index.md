@@ -24,20 +24,20 @@ CanHaptics connects people through several programs (currently in development):
  - [CanHap501](http://wiki.canhaptics.ca): a cross-institutional graduate course on haptic information design
  - CanHap Seminar series: a ~monthly seminar series featuring researchers from all areas of haptics
 
-# Course
+## Course
 [CanHap501](http://wiki.canhaptics.ca) is a graduate-level introduction to the inception, creation and evaluation of haptic and multimodal human-computer interfaces. It covers perceptual and attentional foundations, and emphasizes control and/or display of computed sensations and environments through haptic devices to user's sense of touch for the purpose of hapticcommunication -- for example,  signalling, social and affective touch, and sharing of control between human and a smart system. 
 
 Format: CanHap501is delivered fully online in Canadian timezones, with a centerpiece team project carried out by cross-institutional teams. The course consists of lectures, assignments and labs, reading and discussion of current literature; culminating in a team project. Labs and projects employ a haptic force-feedback device made available to enrolled students for use at home or their local lab. 
 
-More information at the course wiki: http://wiki.canhaptics.ca
+More information at the course wiki: [http://wiki.canhaptics.ca](http://wiki.canhaptics.ca)
 
 
-# Seminar Series
+## Seminar Series
 
 | Date        | Time  | Event           | 
 | ------------- | ------------ | ------------ |
-| Wednesday, June 16, 2021      | 1:00-2:00ET / noon-1pm CT / 10-11am PT | [Haptic Computing Lab](https://uwaterloo.ca/haptic-computing-lab/) Tour |
-| Wednesday, June 23, 2021      | 1:00-2:00ET / noon-1pm CT / 10-11am PT | Manitoba HCI Lab Tour |
+| ~~Wednesday, June 16, 2021~~      | 1:00-2:00ET / noon-1pm CT / 10-11am PT | [Haptic Computing Lab](https://uwaterloo.ca/haptic-computing-lab/) Tour |
+| ~~Wednesday, June 23, 2021~~      | 1:00-2:00ET / noon-1pm CT / 10-11am PT | Manitoba HCI Lab Tour |
 | Wednesday, July 21, 2021      | 1:00-2:00ET / noon-1pm CT / 10-11am PT | [Shared Reality Lab](http://srl.mcgill.ca/) Tour |
 | Wednesday, Aug 4, 2021        | 1:00-2:00ET / noon-1pm CT / 10-11am PT | Haptic User Experience (HUX) Lab Tour |
 | Wednesday, Aug 18, 2021       | 1:00-2:00ET / noon-1pm CT / 10-11am PT | [SPIN Lab](https://www.cs.ubc.ca/labs/spin/frontpage) Tour |
@@ -59,4 +59,4 @@ If you are interested in becoming an industry or community member, contact any o
 
 ## Attributions
 
-Map image adapted from https://freevectormaps.com/canada/CA-EPS-01-3001?ref=atr.
+Map image adapted from [https://freevectormaps.com/canada/CA-EPS-01-3001?ref=atr.](https://freevectormaps.com/canada/CA-EPS-01-3001?ref=atr.)
