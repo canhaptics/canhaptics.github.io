@@ -1,26 +1,46 @@
 # Welcome to CanHaptics!
 
-![Map of Canada with researchers](img/CanHaptics-NetworkImage-01.png)
-
 The CanHaptics network is a collective of researchers, industry practitioners, and community stakeholders across Canada. We make technology more human by making it physical - pushing out from the screen to be graspable, holdable, and engage with all of your senses - and do so by putting people, not technology, first. 
+
+![Map of Canada with researchers](img/CanHaptics-NetworkImage-01.png)
 
 # Who are we?
 Driven by researchers from five universities across Canada (and growing!), we are HCI researchers and technologists dedicated to helping people through physical interactive technology like haptics, virtual reality, wearables, and more.
 
 - British Columbia
-  - Dr. Karon MacLean, The University of British Columbia and leader of the SPIN Lab
+  - [Dr. Karon MacLean](http://cs.ubc.ca/~maclean), The University of British Columbia, leader of the [SPIN Lab](https://www.cs.ubc.ca/labs/spin/frontpage)
 - Manitoba
-  - Dr. Pourang Irani, University of Manitoba
+  - [Dr. Pourang Irani](http://www.cs.umanitoba.ca/~irani/), University of Manitoba
 - Ontario
-  - Dr. Oliver Schneider, University of Waterloo and leader of the Haptic Computing Lab
+  - [Dr. Oliver Schneider](http://oliverschneider.ca), University of Waterloo, leader of the [Haptic Computing Lab](https://uwaterloo.ca/haptic-computing-lab/)
 - Québec
-  - Dr. Jeremy Cooperstock, McGill University and leader of the Shared Reality Lab. 
-  - Dr. Vincent Lévesque, ÉTS
+  - [Dr. Jeremy Cooperstock](https://www.cim.mcgill.ca/~jer/), McGill University, leader of the [Shared Reality Lab](http://srl.mcgill.ca/)
+  - [Dr. Vincent Lévesque](https://vlevesque.com/), École de Technologie Supérieure, leader of the Haptic User Experience (HUX) Lab
+  - [Dr. Antoine Weill-Duflos](http://srl.mcgill.ca/~antoinew/), Haply Robotics
 
-# Upcoming events
- - Seminar Series
-~~March 28-31, 2020 lunch meeting at Haptics Symposium 2020~~
-...
+# What does CanHaptics do?
+
+CanHaptics connects people through several programs (currently in development):
+ - [CanHap501](http://wiki.canhaptics.ca): a cross-institutional graduate course on haptic information design
+ - CanHap Seminar series: a ~monthly seminar series featuring researchers from all areas of haptics
+
+# Seminar Series
+
+| Date        | Time  | Event           | 
+| ------------- | ------------ | ------------ |
+| Wednesday, June 16, 2021      | 1:00-2:00ET / noon-1pm CT / 10-11am PT | [Haptic Computing Lab](https://uwaterloo.ca/haptic-computing-lab/) Tour |
+| Wednesday, June 23, 2021      | 1:00-2:00ET / noon-1pm CT / 10-11am PT | Manitoba HCI Lab Tour |
+| Wednesday, July 21, 2021      | 1:00-2:00ET / noon-1pm CT / 10-11am PT | [Shared Reality Lab](http://srl.mcgill.ca/) Tour |
+| Wednesday, Aug 4, 2021        | 1:00-2:00ET / noon-1pm CT / 10-11am PT | Haptic User Experience (HUX) Lab Tour |
+| Wednesday, Aug 18, 2021       | 1:00-2:00ET / noon-1pm CT / 10-11am PT | [SPIN Lab](https://www.cs.ubc.ca/labs/spin/frontpage) Tour |
+
+# Course
+[CanHap501](http://wiki.canhaptics.ca) is a graduate-level introduction to the inception, creation and evaluation of haptic and multimodal human-computer interfaces. It covers perceptual and attentional foundations, and emphasizes control and/or display of computed sensations and environments through haptic devices to user's sense of touch for the purpose of hapticcommunication -- for example,  signalling, social and affective touch, and sharing of control between human and a smart system. 
+
+Format: CanHap501is delivered fully online in Canadian timezones, with a centerpiece team project carried out by cross-institutional teams. The course consists of lectures, assignments and labs, reading and discussion of current literature; culminating in a team project. Labs and projects employ a haptic force-feedback device made available to enrolled students for use at home or their local lab. 
+
+More information at the course wiki: http://wiki.canhaptics.ca
+
 # Our commitments
 
 **Canada:** the CanHaptics network will accelerate research and innovation in haptics, further entrenching Canada as a leader in interactive physical technology, and attract and retain top technology and design talent and companies to Canada.
@@ -31,18 +51,8 @@ Driven by researchers from five universities across Canada (and growing!), we ar
 
 **Researchers:** the CanHaptics network will establish a tighter research community in Canada, streamlining collaboration across space (connecting researchers at different institutions), time (improving institutional knowledge and training across generations of students), and communities (connecting researchers with industry and community partners).
 
-# What does CanHaptics do?
-
-CanHaptics connects people through several programs (currently in development):
- - CanHap 501: a cross-institutional graduate course on haptic information design
- - CanHap Seminar series: a ~monthly seminar series featuring researchers from all areas of haptics.
-
 # Get involved!
-You can follow our updates at <mailing list>.
-
-If you are interested in becoming an industry or community member, <contact us>.
-
-If you are interested in joining as a researcher or trainee, <contact us differently>.
+If you are interested in becoming an industry or community member, contact any of the lead investigators above.
 
 
 ## Attributions
