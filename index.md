@@ -1,6 +1,6 @@
 # Welcome to CanHaptics!
 
-![Map of Canada with researchers](CanHaptics-NetworkImage-01.png)
+![Map of Canada with researchers](img/CanHaptics-NetworkImage-01.png)
 
 The CanHaptics network is a collective of researchers, industry practitioners, and community stakeholders across Canada. We make technology more human by making it physical - pushing out from the screen to be graspable, holdable, and engage with all of your senses - and do so by putting people, not technology, first. 
 
