@@ -1,6 +1,4 @@
 theme: jekyll-theme-minimal
 title: "CanHaptics Network"
-description: >
-  A cross-Canada network for haptic technology.\n
-  CanHap501 Course wiki: [wiki.canhaptics.ca](http://wiki.canhaptics.ca)
+description: "A cross-Canada network for haptic technology.\nCanHap501 Course wiki: [wiki.canhaptics.ca](http://wiki.canhaptics.ca)"
 logo: "img/CanHaptics-logo.png"
