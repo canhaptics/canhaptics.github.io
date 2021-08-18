@@ -38,9 +38,9 @@ More information at the course wiki: [http://wiki.canhaptics.ca](http://wiki.can
 | ------------- | ------------ | ------------ |
 | ~~Wednesday, June 16, 2021~~      | 1:00-2:00ET / noon-1pm CT / 10-11am PT | [Haptic Computing Lab](https://uwaterloo.ca/haptic-computing-lab/) Tour |
 | ~~Wednesday, June 23, 2021~~      | 1:00-2:00ET / noon-1pm CT / 10-11am PT | Manitoba HCI Lab Tour |
-| Wednesday, July 21, 2021      | 1:00-2:00ET / noon-1pm CT / 10-11am PT | [Shared Reality Lab](http://srl.mcgill.ca/) Tour |
-| Wednesday, Aug 4, 2021        | 1:00-2:00ET / noon-1pm CT / 10-11am PT | Haptic User Experience (HUX) Lab Tour |
-| Wednesday, Aug 18, 2021       | 1:00-2:00ET / noon-1pm CT / 10-11am PT | [SPIN Lab](https://www.cs.ubc.ca/labs/spin/frontpage) Tour |
+| ~~Wednesday, July 21, 2021~~      | 1:00-2:00ET / noon-1pm CT / 10-11am PT | [Shared Reality Lab](http://srl.mcgill.ca/) Tour |
+| ~~Wednesday, Aug 4, 2021~~        | 1:00-2:00ET / noon-1pm CT / 10-11am PT | Haptic User Experience (HUX) Lab Tour |
+| ~~Wednesday, Aug 18, 2021~~       | 1:00-2:00ET / noon-1pm CT / 10-11am PT | [SPIN Lab](https://www.cs.ubc.ca/labs/spin/frontpage) Tour |
 
 
 # Our commitments
