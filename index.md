@@ -8,9 +8,8 @@ The CanHaptics network is a collective of researchers, industry practitioners, a
 Driven by researchers from five universities across Canada (and growing!), we are HCI researchers and technologists dedicated to helping people through physical interactive technology like haptics, virtual reality, wearables, and more.
 
 - British Columbia
-  - [Dr. Karon MacLean](http://cs.ubc.ca/~maclean), The University of British Columbia, leader of the [SPIN Lab](https://www.cs.ubc.ca/labs/spin/frontpage)
-- Manitoba
-  - [Dr. Pourang Irani](http://www.cs.umanitoba.ca/~irani/), University of Manitoba
+  - [Dr. Karon MacLean](http://cs.ubc.ca/~maclean), The University of British Columbia (Vancouver), leader of the [SPIN Lab](https://www.cs.ubc.ca/labs/spin/frontpage)
+  - [Dr. Pourang Irani](http://www.cs.umanitoba.ca/~irani/), The University of British Columbia (Okanagan), previously University of Manitoba
 - Ontario
   - [Dr. Oliver Schneider](http://oliverschneider.ca), University of Waterloo, leader of the [Haptic Computing Lab](https://uwaterloo.ca/haptic-computing-lab/)
 - Québec
@@ -34,6 +33,8 @@ More information at the course wiki: [http://wiki.canhaptics.ca](http://wiki.can
 
 ## Seminar Series
 
+### Summer 2021
+
 | Date        | Time  | Event           | 
 | ------------- | ------------ | ------------ |
 | ~~Wednesday, June 16, 2021~~      | 1:00-2:00ET / noon-1pm CT / 10-11am PT | [Haptic Computing Lab](https://uwaterloo.ca/haptic-computing-lab/) Tour |
@@ -41,7 +42,6 @@ More information at the course wiki: [http://wiki.canhaptics.ca](http://wiki.can
 | ~~Wednesday, July 21, 2021~~      | 1:00-2:00ET / noon-1pm CT / 10-11am PT | [Shared Reality Lab](http://srl.mcgill.ca/) Tour |
 | ~~Wednesday, Aug 4, 2021~~        | 1:00-2:00ET / noon-1pm CT / 10-11am PT | Haptic User Experience (HUX) Lab Tour |
 | ~~Wednesday, Aug 18, 2021~~       | 1:00-2:00ET / noon-1pm CT / 10-11am PT | [SPIN Lab](https://www.cs.ubc.ca/labs/spin/frontpage) Tour |
-
 
 # Our commitments
 
