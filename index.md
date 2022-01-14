@@ -32,7 +32,7 @@ More information at the course wiki: [https://ch501.canhaptics.ca/](https://ch50
 
 CanHap501 was offered in the following terms:
  - [Winter 2022](https://ch501.canhaptics.ca/en/2021_22) (authentication required)
- - [Winter 2021](https://ch501.canhaptics.ca/en/2020_21) (authentication required)
+ - Winter 2021 (accessible through [https://ch501.canhaptics.ca/](https://ch501.canhaptics.ca/)) 
 
 
 ## Seminar Series
@@ -41,11 +41,11 @@ CanHap501 was offered in the following terms:
 
 | Date        | Time  | Event           | 
 | ------------- | ------------ | ------------ |
-| ~~Wednesday, June 16, 2021~~      | 1:00-2:00ET / noon-1pm CT / 10-11am PT | [Haptic Computing Lab](https://uwaterloo.ca/haptic-computing-lab/) Tour |
-| ~~Wednesday, June 23, 2021~~      | 1:00-2:00ET / noon-1pm CT / 10-11am PT | Manitoba HCI Lab Tour |
-| ~~Wednesday, July 21, 2021~~      | 1:00-2:00ET / noon-1pm CT / 10-11am PT | [Shared Reality Lab](http://srl.mcgill.ca/) Tour |
-| ~~Wednesday, Aug 4, 2021~~        | 1:00-2:00ET / noon-1pm CT / 10-11am PT | Haptic User Experience (HUX) Lab Tour |
-| ~~Wednesday, Aug 18, 2021~~       | 1:00-2:00ET / noon-1pm CT / 10-11am PT | [SPIN Lab](https://www.cs.ubc.ca/labs/spin/frontpage) Tour |
+| Wednesday, June 16, 2021      | 1:00-2:00ET / noon-1pm CT / 10-11am PT | [Haptic Computing Lab](https://uwaterloo.ca/haptic-computing-lab/) Tour |
+| Wednesday, June 23, 2021      | 1:00-2:00ET / noon-1pm CT / 10-11am PT | Manitoba HCI Lab Tour |
+| Wednesday, July 21, 2021      | 1:00-2:00ET / noon-1pm CT / 10-11am PT | [Shared Reality Lab](http://srl.mcgill.ca/) Tour |
+| Wednesday, Aug 4, 2021        | 1:00-2:00ET / noon-1pm CT / 10-11am PT | Haptic User Experience (HUX) Lab Tour |
+| Wednesday, Aug 18, 2021       | 1:00-2:00ET / noon-1pm CT / 10-11am PT | [SPIN Lab](https://www.cs.ubc.ca/labs/spin/frontpage) Tour |
 
 # Our commitments
 
