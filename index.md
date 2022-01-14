@@ -26,9 +26,13 @@ CanHaptics connects people through several programs (currently in development):
 ## Course
 [CanHap501](http://wiki.canhaptics.ca) is a graduate-level introduction to the inception, creation and evaluation of haptic and multimodal human-computer interfaces. It covers perceptual and attentional foundations, and emphasizes control and/or display of computed sensations and environments through haptic devices to user's sense of touch for the purpose of hapticcommunication -- for example,  signalling, social and affective touch, and sharing of control between human and a smart system. 
 
-Format: CanHap501is delivered fully online in Canadian timezones, with a centerpiece team project carried out by cross-institutional teams. The course consists of lectures, assignments and labs, reading and discussion of current literature; culminating in a team project. Labs and projects employ a haptic force-feedback device made available to enrolled students for use at home or their local lab. 
+Format: CanHap501 is delivered fully online in Canadian timezones, with a centerpiece team project carried out by cross-institutional teams. The course consists of lectures, assignments and labs, reading and discussion of current literature; culminating in a team project. Labs and projects employ a haptic force-feedback device made available to enrolled students for use at home or their local lab. 
 
-More information at the course wiki: [http://wiki.canhaptics.ca](http://wiki.canhaptics.ca)
+More information at the course wiki: [https://ch501.canhaptics.ca/](https://ch501.canhaptics.ca/)
+
+CanHap501 was offered in the following terms:
+ - [Winter 2022](https://ch501.canhaptics.ca/en/2021_22) (authentication required)
+ - [Winter 2021](https://ch501.canhaptics.ca/en/2020_21) (authentication required)
 
 
 ## Seminar Series
