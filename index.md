@@ -1,11 +1,11 @@
 # Welcome to CanHaptics!
 
-The CanHaptics network is a collective of researchers, industry practitioners, and community stakeholders across Canada. We make technology more human by making it physical - pushing out from the screen to be graspable, holdable, and engage with all of your senses - and do so by putting people, not technology, first. 
+The CanHaptics network is a collective of researchers, industry practitioners, and community stakeholders across Canada. We make technology more human by making it physical - pushing out from the screen to be graspable, holdable, and engage with all of your senses - and do so by putting people, not technology, first.
 
 ![Map of Canada with researchers](img/CanHaptics-NetworkImage-01.png)
 
 # Who are we?
-Driven by researchers from five universities across Canada (and growing!), we are HCI researchers and technologists dedicated to helping people through physical interactive technology like haptics, virtual reality, wearables, and more.
+Driven by researchers from five university campuses across Canada (and growing!), we are HCI researchers and technologists dedicated to helping people through physical interactive technology like haptics, virtual reality, wearables, and more.
 
 - British Columbia
   - [Dr. Karon MacLean](http://cs.ubc.ca/~maclean), The University of British Columbia (Vancouver), leader of the [SPIN Lab](https://www.cs.ubc.ca/labs/spin/frontpage)
@@ -20,11 +20,12 @@ Driven by researchers from five universities across Canada (and growing!), we ar
 # What does CanHaptics do?
 
 CanHaptics connects people through several programs (currently in development):
- - [CanHap501](http://wiki.canhaptics.ca): a cross-institutional graduate course on haptic information design
+ - [CanHap501](http://ch501.canhaptics.ca): a cross-institutional graduate course on haptic information design
  - CanHap Seminar series: a ~monthly seminar series featuring researchers from all areas of haptics
+ - The CanHap Slack group, with members from all course alumni and research lab members
 
 ## Course
-[CanHap501](http://wiki.canhaptics.ca) is a graduate-level introduction to the inception, creation and evaluation of haptic and multimodal human-computer interfaces. It covers perceptual and attentional foundations, and emphasizes control and/or display of computed sensations and environments through haptic devices to user's sense of touch for the purpose of hapticcommunication -- for example,  signalling, social and affective touch, and sharing of control between human and a smart system. 
+[CanHap501](http://ch501.canhaptics.ca) is a graduate-level introduction to the inception, creation and evaluation of haptic and multimodal human-computer interfaces, designed to be accessible to different disciplines. It covers perceptual and attentional foundations, and emphasizes control and/or display of computed sensations and environments through haptic devices to user's sense of touch for the purpose of hapticcommunication -- for example,  signalling, social and affective touch, and sharing of control between human and a smart system. 
 
 Format: CanHap501 is delivered fully online in Canadian timezones, with a centerpiece team project carried out by cross-institutional teams. The course consists of lectures, assignments and labs, reading and discussion of current literature; culminating in a team project. Labs and projects employ a haptic force-feedback device made available to enrolled students for use at home or their local lab. 
 
@@ -36,6 +37,7 @@ CanHap501 was offered in the following terms:
 
 
 ## Seminar Series
+The CanHap group offers seminar series when CH501 is not in session.
 
 ### Summer 2021
 
