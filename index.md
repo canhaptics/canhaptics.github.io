@@ -5,7 +5,7 @@ The CanHaptics network is a collective of researchers, industry practitioners, a
 ![Map of Canada with researchers](img/CanHaptics-NetworkImage-02-01.png)
 
 # Who are we?
-Driven by researchers from five university campuses across Canada (and growing!), we are HCI researchers and technologists dedicated to helping people through physical interactive technology like haptics, virtual reality, wearables, and more.
+Driven by researchers from five universities across Canada (and growing!), we are HCI researchers and technologists dedicated to helping people through physical interactive technology like haptics, virtual reality, wearables, and more.
 
 - British Columbia
   - [Dr. Karon MacLean](http://cs.ubc.ca/~maclean), The University of British Columbia (Vancouver), leader of the [SPIN Lab](https://www.cs.ubc.ca/labs/spin/frontpage)
