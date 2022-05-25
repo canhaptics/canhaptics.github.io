@@ -37,8 +37,8 @@ More information at the course wiki: [https://ch501.canhaptics.ca/](https://ch50
 
 CanHap501 is offered in the following terms:
  - Winter 2023 (website coming in fall 2022)
- - [Winter 2022](https://ch501.canhaptics.ca/en/2021_22) (authentication required)
- - Winter 2021 (accessible through [https://ch501.canhaptics.ca/](https://ch501.canhaptics.ca/)) 
+ - [Winter 2022](https://ch501.canhaptics.ca/en/2021_22) (authentication required) - **13 studens**
+ - Winter 2021 (accessible through [https://ch501.canhaptics.ca/](https://ch501.canhaptics.ca/)) **17 students**
 
 
 ## Seminar Series
