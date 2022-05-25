@@ -52,7 +52,7 @@ More information at the course wiki: [https://ch501.canhaptics.ca/](https://ch50
 
 
 
-## Seminar Series
+# Seminar Series
 The CanHap group offers seminar series when CH501 is not in session.
 
 
