@@ -31,14 +31,24 @@ CanHaptics connects people through several programs (currently in development):
 ## Course
 [CanHap501](http://ch501.canhaptics.ca) is a graduate-level introduction to the inception, creation and evaluation of haptic and multimodal human-computer interfaces, designed to be accessible to different disciplines. It covers perceptual and attentional foundations, and emphasizes control and/or display of computed sensations and environments through haptic devices to user's sense of touch for the purpose of hapticcommunication -- for example,  signalling, social and affective touch, and sharing of control between human and a smart system. 
 
-Format: CanHap501 is delivered fully online in Canadian timezones, with a centerpiece team project carried out by cross-institutional teams. The course consists of lectures, assignments and labs, reading and discussion of current literature; culminating in a team project. Labs and projects employ a haptic force-feedback device made available to enrolled students for use at home or their local lab. 
+![Screenshot of online course teaching about haptics](img/CanHap-WIP-imagecandidate.jpg)
 
-More information at the course wiki: [https://ch501.canhaptics.ca/](https://ch501.canhaptics.ca/)
+### Format
+CanHap501 is delivered fully online in Canadian timezones, with a centerpiece team project carried out by cross-institutional teams. The course consists of lectures, assignments and labs, reading and discussion of current literature; culminating in a team project. Labs and projects employ a haptic force-feedback device made available to enrolled students for use at home or their local lab. 
 
-CanHap501 is offered in the following terms:
+### Terms offered:
+
  - Winter 2023 (website coming in fall 2022)
  - [Winter 2022](https://ch501.canhaptics.ca/en/2021_22) (authentication required) - **13 studens**
  - Winter 2021 (accessible through [https://ch501.canhaptics.ca/](https://ch501.canhaptics.ca/)) **17 students**
+
+More information at the course wiki: [https://ch501.canhaptics.ca/](https://ch501.canhaptics.ca/).
+
+### Publications:
+
+ - K. E. MacLean, O. Schneider, A. Weill--Duflos, V. Levesque, P. Irani and J. R. Cooperstock, [CanHap 501: Learning Haptic UX Design in Remote Teams](https://ieeexplore.ieee.org/abstract/document/9517152), 2021 IEEE World Haptics Conference (WHC), 2021, pp. 348-348, doi: 10.1109/WHC49131.2021.9517152
+
+
 
 
 ## Seminar Series
