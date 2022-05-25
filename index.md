@@ -40,7 +40,7 @@ CanHap501 is delivered fully online in Canadian timezones, with a centerpiece te
 
  - Winter 2023 (website coming in fall 2022)
  - [Winter 2022](https://ch501.canhaptics.ca/en/2021_22) (authentication required) - **13 studens**
- - Winter 2021 (accessible through [https://ch501.canhaptics.ca/](https://ch501.canhaptics.ca/)) **17 students**
+ - Winter 2021 (via [https://ch501.canhaptics.ca/](https://ch501.canhaptics.ca/)) **17 students**
 
 More information at the course wiki: [https://ch501.canhaptics.ca/](https://ch501.canhaptics.ca/).
 
