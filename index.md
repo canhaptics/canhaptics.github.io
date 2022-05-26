@@ -14,7 +14,7 @@ Driven by researchers from six universities across Canada (and growing!), we are
   - [Dr. Alissa N. Antle](https://www.sfu.ca/siat/people/research-faculty/alissa-antle.html), Simon Fraser University, director of the [TECI Lab](http://antle.iat.sfu.ca/).
 - Ontario
   - [Dr. Oliver Schneider](http://oliverschneider.ca), University of Waterloo, leader of the [Haptic Experience Lab](https://uwaterloo.ca/haptic-experience-lab/)
-  - [Dr. Arash Arami](https://www.aramilab.com/), University of Waterloo, leader of the [Arami Research Lab](https://www.aramilab.com/) on neuromechanics and assistive robotics
+  - [Dr. Arash Arami](https://www.aramilab.com/arash-arami), University of Waterloo, leader of the [Arami Research Lab](https://www.aramilab.com/) on neuromechanics and assistive robotics
   - [Dr. Audrey Girouard](https://carleton.ca/scs/people/audrey-girouard/), Carleton University, leader of the [Creative Interactions Lab](https://cil.csit.carleton.ca/)
 - Québec
   - [Dr. Jeremy Cooperstock](https://www.cim.mcgill.ca/~jer/), McGill University, leader of the [Shared Reality Lab](http://srl.mcgill.ca/)
