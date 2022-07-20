@@ -58,7 +58,11 @@ The CanHap group offers seminar series when CH501 is not in session.
 
 ### Summer/fall 2022
 
-Coming soon!
+| Date        | Time  | Event           | 
+| ------------- | ------------ | ------------ |
+| Wednesday, June 20, 2022      | 16:00-17:00ET / 13:00-14:00 PT | [Motivated Cognition Lab](http://mclab.psych.ubc.ca/) Prof. Todd and Dr. Kryklywy on Cognitive Neuroscience and Affective Touch |
+| Fall 2022 | tbd | [TECI Lab](http://antle.iat.sfu.ca/research/) Prof. Antle and Tangible, Embodied Child-Computer Interaction (TECI) Lab Tour |
+
 
 ### Summer 2021
 
